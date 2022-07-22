@@ -1,7 +1,7 @@
 # ml-game-framework
 java课作业的附属产物
 
-内容非常的粗糙，属于我学习过程中瞎鼓捣的玩意，算是半个2D java游戏框架叭。具体例程：[坦克大战]([Masterlong-Dragon/scu-java-battlecity: 某不知名西南带专的java课作业） (github.com)](https://github.com/Masterlong-Dragon/scu-java-battlecity))
+内容非常的粗糙，属于我学习过程中瞎鼓捣的玩意，算是半个2D java游戏框架叭。具体例程：[坦克大战](https://github.com/Masterlong-Dragon/scu-java-battlecity
 
 资源管理目前只能读取一张大的精灵图集。
 
